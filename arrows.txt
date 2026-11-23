@@ -1,0 +1,5 @@
+Go to master. Create the arrows.txt file there and add the following text:
+
+One thousand burning arrows
+
+Fill the starlit sky
